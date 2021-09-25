@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-03T16:13:51 EDT" name="Suite" finished-at="2021-09-03T16:13:51 EDT" duration-ms="25">
+    <groups>
+    </groups>
+    <test started-at="2021-09-03T16:13:51 EDT" name="Test" finished-at="2021-09-03T16:13:51 EDT" duration-ms="25">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method signature="AppTest1()[pri:0, instance:qaclickacademy.AppiumTest@318ba8c8]" started-at="2021-09-03T16:13:51 EDT" name="AppTest1" finished-at="2021-09-03T16:13:51 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppTest1 -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method signature="RestAPITest2()[pri:0, instance:qaclickacademy.RESTAPITest@12e61fe6]" started-at="2021-09-03T16:13:51 EDT" name="RestAPITest2" finished-at="2021-09-03T16:13:51 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest2 -->
+        <test-method signature="RestAPITest1()[pri:0, instance:qaclickacademy.RESTAPITest@12e61fe6]" started-at="2021-09-03T16:13:51 EDT" name="RestAPITest1" finished-at="2021-09-03T16:13:51 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest1 -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method signature="SeleniumTest2()[pri:0, instance:qaclickacademy.SeleniumTest@7c469c48]" started-at="2021-09-03T16:13:51 EDT" name="SeleniumTest2" finished-at="2021-09-03T16:13:51 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest2 -->
+        <test-method signature="SeleniumTest1()[pri:0, instance:qaclickacademy.SeleniumTest@7c469c48]" started-at="2021-09-03T16:13:51 EDT" name="SeleniumTest1" finished-at="2021-09-03T16:13:51 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest1 -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
